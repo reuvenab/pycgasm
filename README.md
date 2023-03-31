@@ -18,7 +18,7 @@ Download pyCgasm.py script
 
 What this VPCONFLICTD is used for ...?
 ```
-host:~ reuvenab$ cgasm -f aes
+host:~ reuvenab$ python .\pyCgasm.py VPCONFLICTD
                                                     Instruction Operand Encoding
      Op/En                Operand 1                      Operand 2                      Operand 3                  Operand 4
        FV               ModRM:reg (w)                  ModRM:r/m (r)                       NA                         NA
